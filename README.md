@@ -1,24 +1,3 @@
-# README
+## Rails Template Example App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This app was generated and pushed to Github using a Rails template that can be found [here] (https://github.com/b0xw00d/boxfiles/blob/master/rails/.rails_template.rb).
